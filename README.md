@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Hilal 👋
 
-<!--
-**hilakkk0/hilakkk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Fırat University, interested in AI for telecommunications: optimisation, simulation and energy-efficient networks.
 
-Here are some ideas to get you started:
+Featured projects
+ran-power-optimizer: genetic algorithm that cuts mobile network energy use by tuning TX power, tilt and sleep mode, with coverage and throughput limits (synthetic data, Python, Streamlit).
+cyber-echo-tale: interactive web app built with TypeScript, React and TanStack Start.
+Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · NumPy · Pandas · Matplotlib · Streamlit · Java · TypeScript · Git
+
+Currently exploring
+
+AI-based optimisation of communication nodes in tactical and disaster scenarios.
+
+Merhaba, ben Hilal. Telekomünikasyonda yapay zekâ, optimizasyon ve simülasyon ile ilgileniyorum.
