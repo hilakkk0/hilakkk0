@@ -1,16 +1,19 @@
-Hi, I'm Hilal 👋
+## Merhaba, ben Hilal
 
-Computer Engineering student at Fırat University, interested in AI for telecommunications: optimisation, simulation and energy-efficient networks.
+Fırat Üniversitesi'nde Bilgisayar Mühendisliği okuyorum. Bu yaz Türk Telekom'da RAN Optimizasyon ekibinde staj yaptım; baz istasyonlarında kullanılmayan gücü görmek ve azaltmak üzerine çalıştım. O fikri sonra kendi başıma, sentetik verilerle baştan kurdum.
 
-Featured projects
-ran-power-optimizer: genetic algorithm that cuts mobile network energy use by tuning TX power, tilt and sleep mode, with coverage and throughput limits (synthetic data, Python, Streamlit).
-cyber-echo-tale: interactive web app built with TypeScript, React and TanStack Start.
-Tech
+### Yaptıklarım
 
-Python · NumPy · Pandas · Matplotlib · Streamlit · Java · TypeScript · Git
+**[ran-power-optimizer](https://github.com/hilakkk0/ran-power-optimizer)**
+Mobil ağda enerji tasarrufu: genetik algoritma, kapsama ve hız sınırlarını koruyarak baz istasyonlarının gücünü, eğimini ve uyku modunu ayarlıyor. Simülasyonda ağ gücünü yaklaşık %34 düşürüyor. [Canlı demo](https://ran-power-optimizer.streamlit.app)
 
-Currently exploring
+**[cyber-echo-tale](https://github.com/hilakkk0/cyber-echo-tale)**
+Karanlık, siberpunk temalı, seçimlerle ilerleyen Türkçe bir macera oyunu. [Oyna](https://hilakkk0.github.io/cyber-echo-tale/)
 
-AI-based optimisation of communication nodes in tactical and disaster scenarios.
+### Şimdilerde
 
-Merhaba, ben Hilal. Telekomünikasyonda yapay zekâ, optimizasyon ve simülasyon ile ilgileniyorum.
+Taktik ve afet senaryolarında haberleşme noktalarının yapay zekâyla konumlandırılmasını araştırmak istiyorum. Üniversitede yapay zekâ eğitim programı ve yarışması organizasyonunda yer alıyorum, T3 Vakfı'nda gönüllüyüm.
+
+### Bana ulaş
+
+[LinkedIn](https://www.linkedin.com/in/hilal-ak%C3%A7i%C3%A7ek/)
